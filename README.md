@@ -24,7 +24,7 @@ Skills: NODE JS / REACT / JS / HTML / CSS / SCSS / GULP / WEBPACK / PYTHON / FLA
     <img src="https://img.shields.io/badge/Javascript-code-FF9200?style=flat-square&logo=Javascript&labelColor=black"/>
     <img src="https://img.shields.io/badge/React-code-FF9200?style=flat-square&logo=React&labelColor=black"><br>
     <img src="https://img.shields.io/badge/Redux-code-FF9200?style=flat-square&logo=Redux&labelColor=black">
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=black)"> 
+    <img src="https://img.shields.io/badge/Node.js-FF9200?style=for-the-badge&logo=node.js&logoColor=black)"> 
     <img src="https://img.shields.io/badge/Python-code-FF9200?style=flat-square&logo=Python&labelColor=black"> 
     <img src="https://img.shields.io/badge/TypeScript-code-FF9200?style=flat-square&logo=TypeScript&labelColor=black"> 
   </div><br>
