@@ -33,6 +33,7 @@ Skills: NODE JS / REACT / JS / HTML / CSS / SCSS / GULP / WEBPACK / PYTHON / FLA
     <img src="https://img.shields.io/badge/Webpack-tool-1924B1?style=flat-square&logo=Webpack&labelColor=black">
     <img src="https://img.shields.io/badge/Figma-tool-1924B1?style=flat-square&logo=Figma&labelColor=black">
     <img src="https://img.shields.io/badge/Firebase-tool-1924B1?style=flat-square&logo=Firebase&labelColor=black">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=black">
   </div>
 </div>
 
