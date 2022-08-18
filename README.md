@@ -2,7 +2,7 @@
 #### I am Full stack developer
 ![I am Full stack developer](https://www.erasmuslifebudapest.com/wp-content/uploads/2018/11/node-js-main.jpg)
 
-div>
+<div>
     <h4>Code</h4>
   <div>
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge"/>
