@@ -1,48 +1,51 @@
-### Hi there 👋, my name is Max Chernikov
+## Hi there 👋, my name is Max Chernikov
 #### I am Full stack developer
 ![I am Full stack developer](https://www.erasmuslifebudapest.com/wp-content/uploads/2018/11/node-js-main.jpg)
 
-I have a **lot of experience** in creating different websites, i'm **full stack** js dev.Bruhh.....To be continued
-
-Skills: NODE JS / REACT / JS / HTML / CSS / SCSS / GULP / WEBPACK / PYTHON / FLASK
-
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Next js 
-- 💬 Ask me about Smth 
-- 📫 How to reach me: discord.. 
-- 😄 Pronouns: Maksikos-ctrl 
-- ⚡ Fun fact: Started learning programming in 9th grade 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Maksikos-ctrl)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/https://codepen.io/maksikos-ctrl)  
-
-<div>
+div>
+    <h4>Code</h4>
   <div>
-    <img src="https://img.shields.io/badge/HTML5-code-FF9200?style=flat-square&logo=HTML5&labelColor=black"/>
-    <img src="https://img.shields.io/badge/CSS3-code-FF9200?style=flat-square&logo=CSS3&labelColor=black"/>
-    <img src="https://img.shields.io/badge/Sass-code-FF9200?style=flat-square&logo=Sass&labelColor=black">
-    <img src="https://img.shields.io/badge/Javascript-code-FF9200?style=flat-square&logo=Javascript&labelColor=black"/>
-    <img src="https://img.shields.io/badge/React-code-FF9200?style=flat-square&logo=React&labelColor=black"><br>
-    <img src="https://img.shields.io/badge/Redux-code-FF9200?style=flat-square&logo=Redux&labelColor=black">
-    <img src="https://img.shields.io/badge/Node.js-FF9200?style=flat-square&logo=node.js&labelColor=black)"> 
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo">
-    <img src="https://img.shields.io/badge/Python-code-FF9200?style=flat-square&logo=Python&labelColor=black"> 
-    <img src="https://img.shields.io/badge/TypeScript-code-FF9200?style=flat-square&logo=TypeScript&labelColor=black"> 
-  </div><br>
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"> 
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+    <br>
+    <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white">
+    <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"> 
+    <br>
+      <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+    <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+   
+  </div>
+    <h4>Tools</h4>
   <div>
-    <img src="https://img.shields.io/badge/Webpack-tool-1924B1?style=flat-square&logo=Webpack&labelColor=black">
-    <img src="https://img.shields.io/badge/Figma-tool-1924B1?style=flat-square&logo=Figma&labelColor=black">
-    <img src="https://img.shields.io/badge/Firebase-tool-1924B1?style=flat-square&logo=Firebase&labelColor=black">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=black">
+    <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black">
+    <img src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black"> 
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> 
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> 
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"> 
+    <br>
+     <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"> 
+    <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"> 
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
+    <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"> 
+    
   </div>
 </div>
-
 <br>
-<details>
-  <summary>Statistics</summary>
+  <h3>Statistics</h3>
   <p>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Maksikos-ctrl&show_icons=true&theme=dark" />
-    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Maksikos-ctrl&theme=dark&layout=compact" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Maksikos-ctrl&show_icons=true&theme=radical" />
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Maksikos-ctrl&theme=radical&layout=compact" />
   </p>
-</details>
 <br>
+
+![Hello visitors](https://komarev.com/ghpvc/?username=Maksikos-ctrl&style=for-the-badg)
