@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Max Chernikov
 #### I am MERN developer
-![I am MERN developer](https://wallpapercave.com/wp/wp8904080.jpg)
+![I am Full stack developer](https://www.erasmuslifebudapest.com/join-us/backend-developer)
 
 I have a **lot of experience** in creating different websites, i'm **full stack** js dev.Bruhh.....To be continued
 
