@@ -44,8 +44,8 @@
 <br>
   <h3>Statistics</h3>
   <p>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Maksikos-ctrl&show_icons=true&theme=radical" />
-    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Maksikos-ctrl&theme=radical&layout=compact" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Maksikos-ctrl&show_icons=true&theme=merko" />
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Maksikos-ctrl&theme=merko&layout=compact" />
   </p>
 <br>
 
