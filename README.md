@@ -1,5 +1,6 @@
 ## Hi there 👋, my name is Max Chernikov
 #### I am Full stack developer
+<img src="https://www.codewars.com/users/Maksikos-ctrl/badges/small"> 
 ![I am Full stack developer](https://www.erasmuslifebudapest.com/wp-content/uploads/2018/11/node-js-main.jpg)
 
 <div>
