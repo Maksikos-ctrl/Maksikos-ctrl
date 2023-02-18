@@ -46,8 +46,8 @@
     <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"> 
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
     <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"> 
-    <img src="https://img.shields.io/badge/UnrealEngine-4B3263?style=for-the-badge&logo=unrealengine&logoColor=dark"> 
-    <img src="https://img.shields.io/badge/Blender-4B3263?style=for-the-badge&logo=blendert&logoColor=orange"> 
+    <img src="https://img.shields.io/badge/Unreal-Engine?style=for-the-badge&logo=unrealengine&logoColor=dark"> 
+    <img src="https://img.shields.io/badge/Blender?style=for-the-badge&logo=blendert&logoColor=orange"> 
   </div>
 </div>
 <br>
