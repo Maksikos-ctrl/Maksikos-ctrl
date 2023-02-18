@@ -1,5 +1,5 @@
-## Hi there 👋, my name is Max Chernikov
-#### I am Full stack developer
+## Hello there [![hellothere](https://cdn3.emoji.gg/emojis/2860_hellothere.gif)](https://emoji.gg/emoji/2860_hellothere), my name is Max Chernikov
+#### I'm Software Developer
 <img src="https://www.codewars.com/users/Maksikos-ctrl/badges/small"> 
 
 
