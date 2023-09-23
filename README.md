@@ -2,7 +2,7 @@
 ### I'm Software Developer
 
  <a href='https://www.codewars.com/users/profile_name'>
-      <img src='"https://www.codewars.com/users/Maksikos-ctrl/badges/large' alt='Code wars bage'/>
+      <img src="https://www.codewars.com/users/Maksikos-ctrl/badges/large" alt='Code wars bage'/>
   </a>
 
 
