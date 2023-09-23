@@ -1,7 +1,7 @@
 ## [![hellothere](https://cdn3.emoji.gg/emojis/2860_hellothere.gif)](https://emoji.gg/emoji/2860_hellothere), my name is Max Chernikov
 ### I'm Software Developer
 
- <a href='https://www.codewars.com/users/profile_name'>
+ <a href='https://www.codewars.com/users/Maksikos-ctrl'>
       <img src="https://www.codewars.com/users/Maksikos-ctrl/badges/large" alt='Code wars bage'/>
   </a>
 
