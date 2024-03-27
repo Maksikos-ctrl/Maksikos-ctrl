@@ -26,17 +26,17 @@
     <br>
     <h4>GameDev</h4>
   
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-    <img src="https://img.shields.io/badge/java-%2300599C.svg?style=for-the-badge&logo=java&logoColor=orange"/>
-    <img src="https://img.shields.io/badge/javafx-%2300599C.svg?style=for-the-badge&logo=javafx&logoColor=green"/>
-    <img src="https://img.shields.io/badge/SDL-%2300599C.svg?style=for-the-badge&logo=SDL&logoColor=white"/>
+   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+   <img src="https://img.shields.io/badge/java-%2300599C.svg?style=for-the-badge&logo=java&logoColor=orange"/>
+   <img src="https://img.shields.io/badge/javafx-%2300599C.svg?style=for-the-badge&logo=javafx&logoColor=green"/>
+   <img src="https://img.shields.io/badge/SDL-%2300599C.svg?style=for-the-badge&logo=SDL&logoColor=white"/>
 
-    <br>
-    <h4>Other P.L</h4>  
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-    <img src="https://img.shields.io/badge/csharp-3670A0?style=for-the-badge&logo=csharp&logoColor=ffdd54">
-    <br>
+   <br>
+   <h4>Other P.L</h4>  
+   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+   <img src="https://img.shields.io/badge/csharp-3670A0?style=for-the-badge&logo=csharp&logoColor=ffdd54">
+   <br>
      
    
   </div>
