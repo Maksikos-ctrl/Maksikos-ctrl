@@ -23,13 +23,13 @@
     <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"> 
     <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white">
     <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Java-%23F05033.svg?style=for-the-badge&logo=coffee&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Spring-%234ea94b.svg?style=for-the-badge&logo=spring&logoColor=white"> 
     <br>
     <h4>GameDev</h4>
   
    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-   <img src="https://img.shields.io/badge/java-%2300599C.svg?style=for-the-badge&logo=java&logoColor=orange"/>
-   <img src="https://img.shields.io/badge/javafx-%2300599C.svg?style=for-the-badge&logo=javafx&logoColor=green"/>
    <img src="https://img.shields.io/badge/SDL-%2300599C.svg?style=for-the-badge&logo=SDL&logoColor=white"/>
 
    <br>
