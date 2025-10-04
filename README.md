@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hello there, I'm Max Chernikov
+# [![hellothere](https://cdn3.emoji.gg/emojis/2860_hellothere.gif)](https://emoji.gg/emoji/2860_hellothere), I'm Max Chernikov
 
 ### 💻 Software Developer | Full Stack Engineer | Game Dev Enthusiast
 
@@ -44,10 +44,32 @@ I'm a passionate software developer with expertise in web development and game d
 
 ---
 
-### 🎮 Game Development
+### ⚙️ Systems & Backend
 
+#### C++ Development
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+
+#### Java & Spring
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+
+---
+
+### 🔌 Embedded Systems
+
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+
+---
+
+### 🎮 Game Development
+
 ![SDL](https://img.shields.io/badge/SDL-%2300599C.svg?style=for-the-badge&logo=SDL&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
