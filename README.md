@@ -54,6 +54,10 @@ I'm a passionate software developer with expertise in web development and game d
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
 
+### 🦀 Rust Development
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+
 
 ### 🔌 Embedded Systems
 
